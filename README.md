@@ -1,6 +1,8 @@
 
+# STUDI KASUS 1
 
-# Automation Test (Playwright - Python)
+
+## Automation Test (Playwright - Python)
 ## Booking Venue
 
 ### Overview
